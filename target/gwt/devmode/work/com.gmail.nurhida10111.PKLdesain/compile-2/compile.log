@@ -1,0 +1,13 @@
+binding: user.agent=safari
+Compiling module com.gmail.nurhida10111.PKLdesain
+   Unification traversed 3189 fields and methods and 780 types. 6 are considered part of the current module and 43 had all of their fields and methods traversed.
+   Compiling 1 permutation
+      Compiling permutation 0...
+      Linking per-type JS with 6 new/changed types.
+      Source Maps Enabled
+   Compile of permutations succeeded
+   Compilation succeeded -- 8.931s
+Linking into /opt/gwt-2.8.2/PKLdesain/target/gwt/devmode/work/com.gmail.nurhida10111.PKLdesain/compile-2/war/PKLdesain; Writing extras to /opt/gwt-2.8.2/PKLdesain/target/gwt/devmode/work/com.gmail.nurhida10111.PKLdesain/compile-2/extras/PKLdesain
+   Link succeeded
+   Linking succeeded -- 0.605s
+10.921s total -- Compile completed
